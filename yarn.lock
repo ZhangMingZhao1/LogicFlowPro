@@ -944,6 +944,15 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
+"@logicflow/core@^0.5.0":
+  version "0.5.0"
+  resolved "http://artifactory.intra.xiaojukeji.com:80/artifactory/api/npm/npm/@logicflow/core/-/core-0.5.0.tgz?dl=https%3A%2F%2Frepo.huaweicloud.com%2Frepository%2Fnpm%2F%40logicflow%2Fcore%2F-%2Fcore-0.5.0.tgz#c7068ce179400ae54927d71199288a304d2c9b9b"
+  integrity sha1-xwaM4XlACuVJJ9cRmSiKME0sm5s=
+  dependencies:
+    "@types/mousetrap" "^1.6.4"
+    mousetrap "^1.6.5"
+    preact "^10.4.8"
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.npm.taobao.org/@mrmlnc/readdir-enhanced/download/@mrmlnc/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
@@ -1048,6 +1057,11 @@
   version "1.2.1"
   resolved "https://registry.nlark.com/@types/minimist/download/@types/minimist-1.2.1.tgz#283f669ff76d7b8260df8ab7a4262cc83d988256"
   integrity sha1-KD9mn/dte4Jg34q3pCYsyD2YglY=
+
+"@types/mousetrap@^1.6.4":
+  version "1.6.8"
+  resolved "http://artifactory.intra.xiaojukeji.com:80/artifactory/api/npm/npm/@types/mousetrap/-/mousetrap-1.6.8.tgz?dl=https%3A%2F%2Frepo.huaweicloud.com%2Frepository%2Fnpm%2F%40types%2Fmousetrap%2F-%2Fmousetrap-1.6.8.tgz#448929e6dc21126392830465fdb9d4a2cfc16a88"
+  integrity sha1-RIkp5twhEmOSgwRl/bnUos/Baog=
 
 "@types/node@*":
   version "15.12.4"
@@ -5452,6 +5466,11 @@ mkdirp@^0.5.1, mkdirp@^0.5.3, mkdirp@^0.5.5, mkdirp@~0.5.1:
   dependencies:
     minimist "^1.2.5"
 
+mousetrap@^1.6.5:
+  version "1.6.5"
+  resolved "http://artifactory.intra.xiaojukeji.com:80/artifactory/api/npm/npm/mousetrap/-/mousetrap-1.6.5.tgz?dl=https%3A%2F%2Frepo.huaweicloud.com%2Frepository%2Fnpm%2Fmousetrap%2F-%2Fmousetrap-1.6.5.tgz#8a766d8c272b08393d5f56074e0b5ec183485bf9"
+  integrity sha1-inZtjCcrCDk9X1YHTgtewYNIW/k=
+
 move-concurrently@^1.0.1:
   version "1.0.1"
   resolved "https://registry.npm.taobao.org/move-concurrently/download/move-concurrently-1.0.1.tgz#be2c005fda32e0b29af1f05d7c4b33214c701f92"
@@ -6488,6 +6507,11 @@ postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.14, postcss@^7.0.27, postcss@^7.0.3
     chalk "^2.4.2"
     source-map "^0.6.1"
     supports-color "^6.1.0"
+
+preact@^10.4.8:
+  version "10.5.13"
+  resolved "http://artifactory.intra.xiaojukeji.com:80/artifactory/api/npm/npm/preact/-/preact-10.5.13.tgz?dl=https%3A%2F%2Frepo.huaweicloud.com%2Frepository%2Fnpm%2Fpreact%2F-%2Fpreact-10.5.13.tgz#85f6c9197ecd736ce8e3bec044d08fd1330fa019"
+  integrity sha1-hfbJGX7Nc2zo477ARNCP0TMPoBk=
 
 prelude-ls@~1.1.2:
   version "1.1.2"
